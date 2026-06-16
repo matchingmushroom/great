@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "workspace": {
+    "name": "gpt",
+    "createdAt": 1781609768356,
+    "preset": "starter"
+  },
+  "authorizedRoots": [
+    "C:\\Users\\mukun\\Downloads\\Raju\\Raju\\VSCODE\\gpt"
+  ],
+  "reload": null
+}
